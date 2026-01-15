@@ -29,7 +29,7 @@ export default class FingerprintButton extends Component {
     {{#if this.showButton}}
       <DButton
         @label="fingerprint.title"
-        @icon={{settings.fingerprint_icon}}
+        @icon="fingerprint"
         @action={{this.gotoFingerprintPage}}
         class="btn-default"
       />

@@ -1,4 +1,0 @@
-fingerprint_icon:
-  default: "fingerprint"
-  type: string
-  description: "The icon to use for the fingerprint button."

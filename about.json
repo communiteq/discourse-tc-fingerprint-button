@@ -4,12 +4,14 @@
   "license_url": null,
   "about_url": null,
   "authors": "Communiteq",
-  "theme_version": "2026.01.15a",
+  "theme_version": "2026.01.15b",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
   },
   "color_schemes": {
   },
-  "modifiers": {}
+  "modifiers": {
+    "svg_icons": ["fingerprint"]
+  }
 }
